@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: aliceblue;
+}
+.Title{
+font-size: 50px;
+text-align: center;
+color:blueviolet
+}
+.text{
+    position: relative;
+    margin-left: 50px;
+}
+.menu1{
+    color:blueviolet
+
+}
+.menu{
+    font-size: 25px;
+    display: flex;
+    margin: 0 90px;
+    text-align: right;
+
+}
+.menu div {
+    display: inline-block;
+    flex-grow: 0.025;
+   font-family: gotham light;
+    font-size: 25px;
+    margin: 0 0.1em;
+  }
